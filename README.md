@@ -5,7 +5,7 @@ A simple, responsive Weather Web Application that provides real-time weather inf
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/weather-app
+👉 https://pratikjha30.github.io/weather-app/
 
 ---
 
@@ -34,20 +34,6 @@ weather-app/
 └── assets/
 
 ---
-
-## ⚙️ How to Run Locally
-- Clone this repo  
-  git clone https://github.com/your-username/weather-app.git  
-- Open folder  
-- Run index.html in browser  
-
----
-
-## 📸 Screenshot
-(Add your screenshot here)
-
----
-
 ## 🎯 Future Improvements
 - 7-day forecast  
 - Auto location detection  
