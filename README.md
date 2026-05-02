@@ -56,5 +56,3 @@ weather-app/
 
 ---
 
-## 📜 License
-Free to use
